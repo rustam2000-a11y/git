@@ -8,7 +8,7 @@ class SecondPage extends StatelessWidget {
     return Column(
       children: [
         Container(
-          height: 100,
+          height: 200,
           width: 100,
           color: Colors.blueAccent,
         ),
